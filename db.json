@@ -1,0 +1,12 @@
+{
+  "customers": [
+    {
+      "name": "John Due",
+      "company": "My Company",
+      "email": "johndue@mycompany.com",
+      "phone": "1122334455",
+      "info": "More info here",
+      "id": 1
+    }
+  ]
+}
